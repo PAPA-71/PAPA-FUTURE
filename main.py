@@ -1,1 +1,1 @@
-import MAHIN
+import MJMAHIN
